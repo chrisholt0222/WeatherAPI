@@ -4,7 +4,7 @@ I wanted to determine if lattitude had an impact on the following average weathe
 
 ![LatitudevsLongitude](output_data/LatitudevsLongitude.png)
 
-## Summary of Analyses and Visuations
+## Summary of Analyses and Visualization
 
 In general, the closer one is to the equator the higher the maximum temperate in a given year. Our expectation is the maximum temperature plotted by latitude would follow a concaved parabola. This confirmed in the Latitude vs Temperature plot:
 
